@@ -3,7 +3,7 @@
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Live Demo
-https://github.com/Hikki12/nft-card-challenge
+https://hikki12.github.io/nft-card-challenge/
 
 ## Welcome! 👋
 
